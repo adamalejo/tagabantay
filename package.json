@@ -1,6 +1,13 @@
 {
+  "name": "tagabantay",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "tagabantay.js",
+  "scripts": {
+    "start": "node tagabantay.js"
+  },
   "dependencies": {
-    "discord.js": "^14.28.1",
-    "dotenv": "^18.0.10"
+    "discord.js": "^14.0.0",
+    "dotenv": "^16.0.0"
   }
 }
